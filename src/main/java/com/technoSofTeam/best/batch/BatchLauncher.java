@@ -21,7 +21,7 @@ public class BatchLauncher {
     public static void main(String[] args) {
         String[] springConfig = {"database.xml",
                     "bestBatchContext.xml",
-                    "com/meyacine/best/batch/jobCsvToMySqlContext.xml"
+                    "com/technoSofTeam/best/batch/jobCsvToMySqlContext.xml"
                 };
         // we start by loading our batch context
         ApplicationContext context = new ClassPathXmlApplicationContext(springConfig);
