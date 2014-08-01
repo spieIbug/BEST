@@ -18,6 +18,11 @@
         <url>https://github.com/technoSofTeam</url>
     </organization>
     <dependencies>
+        <dependency>
+            <groupId>javax.inject</groupId>
+            <artifactId>javax.inject</artifactId>
+            <version>1</version>
+        </dependency>
         <!-- Java Testing libraries -->
         <dependency>
             <groupId>org.testng</groupId>
