@@ -1,4 +1,4 @@
-package com.meyacine.best.batch.model;
+package com.technoSofTeam.best.batch.model;
 
 /**
  * Model Class for the batch, the four field are the same as those defined in the csv file
